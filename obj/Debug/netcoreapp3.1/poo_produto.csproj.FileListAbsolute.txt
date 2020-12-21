@@ -1,0 +1,13 @@
+C:\Users\monique\Desktop\poo_produto\bin\Debug\netcoreapp3.1\poo_produto.exe
+C:\Users\monique\Desktop\poo_produto\bin\Debug\netcoreapp3.1\poo_produto.deps.json
+C:\Users\monique\Desktop\poo_produto\bin\Debug\netcoreapp3.1\poo_produto.runtimeconfig.json
+C:\Users\monique\Desktop\poo_produto\bin\Debug\netcoreapp3.1\poo_produto.runtimeconfig.dev.json
+C:\Users\monique\Desktop\poo_produto\bin\Debug\netcoreapp3.1\poo_produto.dll
+C:\Users\monique\Desktop\poo_produto\bin\Debug\netcoreapp3.1\poo_produto.pdb
+C:\Users\monique\Desktop\poo_produto\obj\Debug\netcoreapp3.1\poo_produto.csprojAssemblyReference.cache
+C:\Users\monique\Desktop\poo_produto\obj\Debug\netcoreapp3.1\poo_produto.AssemblyInfoInputs.cache
+C:\Users\monique\Desktop\poo_produto\obj\Debug\netcoreapp3.1\poo_produto.AssemblyInfo.cs
+C:\Users\monique\Desktop\poo_produto\obj\Debug\netcoreapp3.1\poo_produto.csproj.CoreCompileInputs.cache
+C:\Users\monique\Desktop\poo_produto\obj\Debug\netcoreapp3.1\poo_produto.dll
+C:\Users\monique\Desktop\poo_produto\obj\Debug\netcoreapp3.1\poo_produto.pdb
+C:\Users\monique\Desktop\poo_produto\obj\Debug\netcoreapp3.1\poo_produto.genruntimeconfig.cache
